@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevstr312
 - 👀 I’m interested in sport shooting, Dune universe and mountains
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything what will help develop myself
 - 📫 How to reach me mac.miko10@gmail.com
 - 😄 Pronouns: he(likopter A64 Apache)/him(ars M142)
