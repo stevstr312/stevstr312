@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning C++, trying to find some time for JS.
 - 💞️ I’m looking to collaborate on everything what will help develop myself
 - 📫 How to reach me mac.miko10@gmail.com
-- 😄 Pronouns: he(likopter A64 Apache)/him(ars M142)
